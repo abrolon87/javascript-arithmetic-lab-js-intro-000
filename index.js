@@ -22,7 +22,6 @@ function dec(n) {
   return n-1;
 }
 
-var i
 function makeInt(i) {
   parseInt(i, 10)
   return parseInt(i, 10);
