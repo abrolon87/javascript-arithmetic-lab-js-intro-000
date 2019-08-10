@@ -4,7 +4,6 @@
 5.0 / 2.5
 var a, b
 function add(a, b) {
-    (1, 80);
-    a + b = result
-    return result;
+    a + b 
+    return sum;
  }
