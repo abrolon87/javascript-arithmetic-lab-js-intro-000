@@ -28,7 +28,3 @@ function makeInt(i) {
   return result;
 }
 
-function makeInt(n) {
-  return
-
-}
