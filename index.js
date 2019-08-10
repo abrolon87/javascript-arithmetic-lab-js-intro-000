@@ -27,4 +27,3 @@ function makeInt(i) {
   result = parseInt(i, 10);
   return result;
 }
-
