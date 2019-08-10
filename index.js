@@ -4,6 +4,6 @@
 5.0 / 2.5
 var a, b
 function add(a, b) {
-    a + b 
+    a + b
     return sum;
  }
