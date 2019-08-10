@@ -27,6 +27,6 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return 
+  return
 
 }
