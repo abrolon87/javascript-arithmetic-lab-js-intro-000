@@ -4,7 +4,7 @@
 5.0 / 2.5
 var a, b
 function add(a, b) {
-    a + b = x 
+    a + b = x
     x = result
     a = 1
     b = 80
