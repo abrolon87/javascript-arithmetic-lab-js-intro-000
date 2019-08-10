@@ -1,4 +1,6 @@
-function add(a, b):
+function add(a, b) {
+  return a + b;
+}
   
 
 60 - 40
